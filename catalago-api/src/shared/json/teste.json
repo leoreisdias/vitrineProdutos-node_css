@@ -1,0 +1,164 @@
+[
+    {
+        "imagesSsl": {},
+        "skus": [
+            {
+                "sku": "992563",
+                "specs": {},
+                "properties": {
+                    "name": "Caneca Pote com Canudo 500ml Zona Criativa Coruja Roxa - 8991",
+                    "installment": {
+                        "count": 10,
+                        "price": 39.99
+                    },
+                    "images": {
+                        "imagem1": "//d1h4n7nr93grs2.cloudfront.net/Custom/Content/Products/11/10/1110982_p-9091_m3_636935452020971774",
+                        "default": "//d1h4n7nr93grs2.cloudfront.net/Custom/Content/Products/11/10/1110982_p-9091_m1_636935451960502787.jpg"
+                    },
+                    "price": 399.9,
+                    "url": "//www.linxcommerce.core.dcg.com.br/caneca-pote-com-canudo-500ml-zona-criativa-coruja-roxa-p987504?tsid=18&v=992563",
+                    "details": {
+                        "precoavista": 399.9
+                    },
+                    "status": "available",
+                    "oldPrice": 399.9
+                },
+                "customBusiness": {}
+            }
+        ],
+        "apiKey": "impulse-core",
+        "description": "Caneca Pote com Canudo 500ml Zona Criativa Coruja Roxa",
+        "type": "product",
+        "auditInfo": {
+            "updatedBy": "importer-v2",
+            "updatedThrough": "dc-catalog-server"
+        },
+        "specs": {},
+        "eanCode": null,
+        "price": "399.9",
+        "details": {
+            "name": "Caneca Pote com Canudo 500ml Zona Criativa Coruja Roxa - 8991",
+            "brand": "Zona Criativa",
+            "rating": "0,00",
+            "cod_venda": "9091",
+            "precoavista": "399.90"
+        },
+        "remoteUrl": null,
+        "categories": [
+            {
+                "id": "969",
+                "name": "Utilidades Domésticas",
+                "parents": []
+            }
+        ],
+        "id": "9091",
+        "stock": null,
+        "brand": "Zona Criativa",
+        "customBusiness": {},
+        "basePrice": null,
+        "images": {
+            "imagem1": "//d1h4n7nr93grs2.cloudfront.net/Custom/Content/Products/11/10/1110982_p-9091_m3_636935452020971774",
+            "default": "//d1h4n7nr93grs2.cloudfront.net/Custom/Content/Products/11/10/1110982_p-9091_m1_636935451960502787.jpg"
+        },
+        "kitProducts": [],
+        "created": "2017-10-26 19:29:02",
+        "oldPrice": "399.9",
+        "published": null,
+        "version": "V2",
+        "url": "//www.linxcommerce.core.dcg.com.br/caneca-pote-com-canudo-500ml-zona-criativa-coruja-roxa-p987504?tsid=18&v=992563",
+        "tags": [],
+        "unit": null,
+        "installment": {
+            "count": 10,
+            "price": 39.99
+        },
+        "name": "Caneca Pote com Canudo 500ml Zona Criativa Coruja Roxa - 8991",
+        "clientLastUpdated": "2020-01-21 05:00:47",
+        "extraInfo": {
+            "hash": ""
+        },
+        "status": "AVAILABLE",
+        "ungroupedId": "default"
+    },
+    {
+        "imagesSsl": {},
+        "skus": [
+            {
+                "sku": "992805",
+                "specs": {},
+                "properties": {
+                    "name": "Jarra 2L Coza Preto - 10732",
+                    "installment": {
+                        "count": 10,
+                        "price": 28.99
+                    },
+                    "images": {
+                        "imagem1": "//d1h4n7nr93grs2.cloudfront.net/Custom/Content/Products/11/11/1111383_p-11005_m3_636935386332162066",
+                        "default": "//d1h4n7nr93grs2.cloudfront.net/Custom/Content/Products/11/11/1111383_p-11005_m1_636935386298880927.jpg"
+                    },
+                    "price": 289.9,
+                    "url": "//www.linxcommerce.core.dcg.com.br/jarra-2l-coza-preto-p987728?tsid=18&v=992805",
+                    "details": {
+                        "precoavista": 289.9
+                    },
+                    "status": "available",
+                    "oldPrice": 289.9
+                },
+                "customBusiness": {}
+            }
+        ],
+        "apiKey": "impulse-core",
+        "description": "Jarra 2 Litros Coza Preto 1542613",
+        "type": "product",
+        "auditInfo": {
+            "updatedBy": "importer-v2",
+            "updatedThrough": "dc-catalog-server"
+        },
+        "specs": {},
+        "eanCode": null,
+        "price": "289.9",
+        "details": {
+            "name": "Jarra 2L Coza Preto - 10732",
+            "brand": "Coza",
+            "rating": "0,00",
+            "cod_venda": "11005",
+            "precoavista": "289.90"
+        },
+        "remoteUrl": null,
+        "categories": [
+            {
+                "id": "969",
+                "name": "Utilidades Domésticas",
+                "parents": []
+            }
+        ],
+        "id": "11005",
+        "stock": null,
+        "brand": "Coza",
+        "customBusiness": {},
+        "basePrice": null,
+        "images": {
+            "imagem1": "//d1h4n7nr93grs2.cloudfront.net/Custom/Content/Products/11/11/1111383_p-11005_m3_636935386332162066",
+            "default": "//d1h4n7nr93grs2.cloudfront.net/Custom/Content/Products/11/11/1111383_p-11005_m1_636935386298880927.jpg"
+        },
+        "kitProducts": [],
+        "created": "2017-10-30 11:56:38",
+        "oldPrice": "289.9",
+        "published": null,
+        "version": "V2",
+        "url": "//www.linxcommerce.core.dcg.com.br/jarra-2l-coza-preto-p987728?tsid=18&v=992805",
+        "tags": [],
+        "unit": null,
+        "installment": {
+            "count": 10,
+            "price": 28.99
+        },
+        "name": "Jarra 2L Coza Preto - 10732",
+        "clientLastUpdated": "2020-01-21 05:00:48",
+        "extraInfo": {
+            "hash": ""
+        },
+        "status": "AVAILABLE",
+        "ungroupedId": "default"
+    }
+]

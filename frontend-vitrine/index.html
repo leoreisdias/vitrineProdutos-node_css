@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./styles.css">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <div class="control">
+            <label for="control-input">Número máximo de Produtos</label>
+            <input type="number" id="max-products" name="control-input" value="" />
+            <button type="button" onclick="changeMaxProducts()">Mudar</button>
+        </div>
+        <small>Para facilitar os testes do avaliador</small>
+    </header>
+    <section class="section-mostpopular">
+        <h2>Vitrine de mais populares</h2>
+        <div class="carrossel">
+            <img class="arrow-left" onclick="leftClickMostPopular()" src="./assets/chevron-left-solid.svg"
+                alt="Left Arrow">
+            <img class="arrow-right" onclick="rightClickMostPopular()" src="./assets/chevron-right-solid.svg"
+                alt="Left Arrow">
+            <div class="items">
+
+            </div>
+        </div>
+    </section>
+    <section class="section-pricereduction">
+        <h2>Vitrine de ofertas</h2>
+        <div class="carrossel">
+            <img class="arrow-left" onclick="leftClickPriceReduction()" src="./assets/chevron-left-solid.svg"
+                alt="Left Arrow">
+            <img class="arrow-right" onclick="rightClickPriceReduction()" src="./assets/chevron-right-solid.svg"
+                alt="Left Arrow">
+            <div class="items">
+
+            </div>
+        </div>
+    </section>
+
+
+
+</body>
+<script src="./api.js"></script>
+
+</html>

@@ -1,0 +1,190 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    display: grid;
+    place-items: center;
+}
+
+header{
+    width: 12rem;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.control{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.control > label{
+    font: 400 1rem 'Times News Roman';
+    margin-bottom: 0.4rem;
+}
+
+.control > input{
+    border-radius: 5px;
+    border: 1px solid black;
+
+    width: 4rem;
+    height: 1.5rem;
+
+    margin-bottom: 0.5rem;
+}
+
+.control > button{
+    border: none;
+    border-radius: 5px;
+
+    font-size: 1rem;
+    padding: 0.2rem 0.4rem;
+
+    background: #ddabd4;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.control > button:hover{
+    filter: brightness(0.8);
+}
+
+section{
+    margin-top: 0.2rem;
+}
+
+section > h2{
+    color: #411E5A;
+    font-family: monospace;
+}
+
+.carrossel{
+    width: 90vw;
+}
+
+.items{
+    display: flex;
+    
+    overflow-x: auto;
+
+    scroll-snap-type: x mandatory;
+
+    -webkit-overflow-scrolling: touch;
+}
+
+.item{
+    flex: none;
+
+    width: 25%;
+    height: 400px;
+
+    scroll-snap-align: start;
+}
+
+.img-container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+    align-items: flex-end;
+}
+
+.ranking{
+    margin-left: 2rem;
+    background: #E8ECF0;
+
+    width: 35px;
+    padding: 0.5rem 0.4rem;
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #411E5A;
+
+    margin-bottom: -2.2rem;
+
+    z-index: 1;
+}
+
+.reduction{
+    margin-left: 0rem;
+    align-self: flex-start;
+    background: #E8ECF0;
+
+    width: 50px;
+    padding: 0.5rem 0.4rem;
+    
+    font-weight: 400;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #fff;
+    background: #411E5A;
+
+    margin-bottom: -1rem;
+
+    z-index: 1;
+}
+
+.arrow-left{
+    position: relative;
+    width: 40px;
+
+    margin-bottom: -10rem;
+    left: 1rem;
+    cursor: pointer;
+}
+
+.arrow-right{
+    position: relative;
+    width: 40px;
+
+    margin-bottom: -10rem;
+    left: 95%;
+    cursor: pointer;
+}
+
+.carrossel .items img{
+    width: 200px;
+    height: 200px;
+
+}
+
+.product-info{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-end;
+
+    margin-left: 2rem;
+    width: 100%;
+    height: 40%;
+}
+
+.product-name{
+    font-size: 1rem;
+    font-family: monospace;
+    text-align: left;
+    
+
+    width: 90%;
+}
+
+.price-info{
+    margin-top: 0;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.price-info > span > strong{
+    font-size: 1.4rem;
+    font-family: 'Times New Roman', Times, serif;
+
+    color: #411E5A;
+}
+
+
