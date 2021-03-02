@@ -1,6 +1,6 @@
 
 async function getData(maxProducts = null) {
-    let response = await fetch(`http://localhost:3001${maxProducts ? '?maxProducts=' + maxProducts : ''}`);
+    let response = await fetch(`http://localhost:3001/recommend${maxProducts ? '?maxProducts=' + maxProducts : ''}`);
     let recommendation = await response.json();
 
     recommendation.map(category => {
