@@ -1,7 +1,5 @@
 <a href="https://www.notion.so/Desafio-Linx-Documenta-o-e172e77bd06a40c4a3b0ba03f42fa2e0">Link da Documentação no Notion</a>
 
-# Desafio Linx - Documentação
-
 # Catalogo API
 
 O catálogo de produtos foi feito em Node.js com a ajuda do Nest.js para modularizações e injeções de depêndencias facilitadas pelo *framework.*
